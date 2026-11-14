@@ -157,6 +157,7 @@ The result was:
 
 1 tests passed, 0 failed, 0 skipped
 ```
+<img src="./images/Screenshot 2026-11-14 at 8.20.04 PM.png">
 
 This confirmed the important state transition I was checking: after the NFT is burned, the `tokenId` can still be referenced while the NFT itself no longer has an owner.
 
